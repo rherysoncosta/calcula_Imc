@@ -1,2 +1,2 @@
 # calcula_Imc
-Praticando lógica
+Praticando lógica, calculando imc
